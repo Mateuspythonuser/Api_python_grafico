@@ -1,4 +1,4 @@
-FROM bitnami/python:3.13.5
+FROM python:3.13-slim
 
 WORKDIR /api_grafic
 
